@@ -15,6 +15,46 @@ http://studio.download.atmel.com/7.0.1931/as-installer-7.0.1931-full.exe
 https://www.microchip.com/mplab/avr-support/atmel-studio-7
 
 ### Install:
+#### 1. Browse the downloaded atmel studio installer.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(1).png"><img>
+
+#### 2. Run the installer by double clicking on it.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(2).png"><img>
+
+#### 3. Agree the license terms and conditions, click on Next.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(3).png"><img>
+
+#### 4. Select Architecture, click on Next.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(4).png"><img>
+
+#### 5. Select extensions, click on Next.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(5).png"><img>
+
+#### 6. Wait till installer is validating your system, click on Next.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(6).png"><img>
+
+* The above step may cause problems sometimes, restart your pc and run installer again.
+
+#### 7. Click on Install.
+
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(7).png"><img>
+
+
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(8).png"><img>
+
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(9).png"><img>
+
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(10).png"><img>
+
+#### 8. Select Always trust and click on Install.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(11).png"><img>
+
+#### 9. Select Always trust and click on Install.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(12).png"><img>
+
+#### 10. Click on Close.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(13).png"><img>
+
 
 ### USBasp Driver Installation:
 
