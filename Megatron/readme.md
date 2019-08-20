@@ -68,9 +68,19 @@ https://zadig.akeo.ie/
 #### 1. Connect Your USBasp to your Computer:
 
 #### 2. Run Zadig-2.4 as Administrator:
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(85).png"><img>
 
-#### 3. Select "libusb-win32 (v1.2.6.0)"
+#### 3. Click on No.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(86).png"><img>
 
-#### 4. Click on "Install WCID Driver" Button
+#### 4. Select "libusb-win32 (v1.2.6.0)"
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(87).png"><img>
 
-#### 5. Installation may take some time, depends on the Computer's Hardware Configuration
+#### 5. Click on Install.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(88).png"><img>
+
+#### 6. Installation may take some time, depends on the Computer's Hardware Configuration.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(89).png"><img>
+
+#### 7. Goto Device Manager and look for Atmel USB Devices.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(91).png"><img>
