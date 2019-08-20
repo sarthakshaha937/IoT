@@ -86,7 +86,7 @@ https://zadig.akeo.ie/
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/Screenshot%20(91).png"><img>
 
 ## Atmel Studio Configuration:
-### Megatron Board Flash Configuration:
+
 #### 1. Run Atmel Studio
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(14).png"><img>
 
@@ -96,7 +96,34 @@ https://zadig.akeo.ie/
 #### 3. Default screen for Atmel Studio.
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(16).png"><img>
 
-#### 4. Click on Tools, goto 
-#### 3. 
+#### 4. Click on Tools, select Extensions and Updates...
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(17).png"><img>
+
+#### 5. In Online Section select microchip
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(18).png"><img>
+
+#### 6. Go to Search bar.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(19).png"><img>
+
+#### 7. Search for "Terminal"
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(20).png"><img>
+
+#### 8. Click on Download
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(21).png"><img>
+
+#### 9. Click on Install
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(22).png"><img>
+
+#### 10. Click on Restart Now
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(23).png"><img>
+
+#### 11. Wait until your IDE restarts
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(24).png"><img>
+
+#### 12. Click on View
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(25).png"><img>
+
+#### 13. Select Terminal Window
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(26).png"><img>
 ### Serial Terminal Installation:
 #### 1. 
