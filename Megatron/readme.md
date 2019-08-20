@@ -82,5 +82,5 @@ https://zadig.akeo.ie/
 #### 6. Installation may take some time, depends on the Computer's Hardware Configuration.
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/Screenshot%20(89).png"><img>
 
-#### 7. Goto Device Manager and look for Atmel USB Devices.
+#### 7. Go to Device Manager and look for Atmel USB Devices.
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/Screenshot%20(91).png"><img>
