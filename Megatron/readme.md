@@ -87,6 +87,8 @@ https://zadig.akeo.ie/
 
 ## Atmel Studio Configuration:
 
+### Serial Terminal Installation:
+
 #### 1. Run Atmel Studio
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(14).png"><img>
 
@@ -125,5 +127,3 @@ https://zadig.akeo.ie/
 
 #### 13. Select Terminal Window
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(26).png"><img>
-### Serial Terminal Installation:
-#### 1. 
