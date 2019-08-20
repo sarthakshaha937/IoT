@@ -87,6 +87,62 @@ https://zadig.akeo.ie/
 
 ## Atmel Studio Configuration:
 
+### AVR Burner Configuration for Megatron.
+
+#### 1. Run Atmel Studio
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(14).png"><img>
+
+#### 2. Wait unitl it loads for the first time.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(15).png"><img>
+
+#### 3. Default screen for Atmel Studio.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(16).png"><img>
+
+#### 4. Click on Tools.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(1).png"><img>
+
+#### 5. Select External Tools
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(2).png"><img>
+
+#### 6. Click on add
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(3).png"><img>
+
+#### 7. Give a name to your tool.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(4).png"><img>
+
+#### 8. Suggested name Megatron.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(5).png"><img>
+
+#### 9. Click on ... button.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(6).png"><img>
+
+#### 10. Go to IoT_Workshop folder.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(8).png"><img>
+
+#### 11. Go to Softwares folder.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(9).png"><img>
+
+#### 12. Go to AVR_BURNER folder.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(10).png"><img>
+
+#### 13. Select avrdude or avrdude.exe.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(11).png"><img>
+
+#### 14. Click on Open.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(12).png"><img>
+
+#### 15. In Arguments paste this.
+<pre>avrdude -c usbasp -p atmega16 -U flash:w:$(ProjectDir)\Debug\$(TargetName).hex:i</pre>
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(20).png"><img>
+
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(21).png"><img>
+
+#### 16. Tick on use output window, click on Apply.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(22).png"><img>
+
+#### 17. Click on Tools and look for Megatron.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Burner_Step%20(23).png"><img>
+
 ### Serial Terminal Installation:
 
 #### 1. Run Atmel Studio
