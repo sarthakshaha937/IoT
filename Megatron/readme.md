@@ -84,3 +84,19 @@ https://zadig.akeo.ie/
 
 #### 7. Go to Device Manager and look for Atmel USB Devices.
 <img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/Screenshot%20(91).png"><img>
+
+## Atmel Studio Configuration:
+### Megatron Board Flash Configuration:
+#### 1. Run Atmel Studio
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(14).png"><img>
+
+#### 2. Wait unitl it loads for the first time.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(15).png"><img>
+
+#### 3. Default screen for Atmel Studio.
+<img src="https://github.com/sinku1196/IoT/blob/master/Megatron/Screenshots/AVR_Studio_Step%20(16).png"><img>
+
+#### 4. Click on Tools, goto 
+#### 3. 
+### Serial Terminal Installation:
+#### 1. 
